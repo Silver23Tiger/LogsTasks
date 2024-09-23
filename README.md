@@ -1,2 +1,2 @@
 Implentation of IPC using messege queues.
-Implementation of log statements and flags.
+and implementation of log statements and flags.
